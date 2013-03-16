@@ -1,12 +1,65 @@
+@import "import/normalize";
+@import "import/typography";
+@import "import/core";
+@import "import/mixins";
+@import "import/animation";
+@import "import/ss-social";
+@import "import/ss-standard";
+
+$serif: "Sentinel","Times New Roman",Georgia,serif;
+$sans: "Gotham",helvetica,arial,sans-serif;
+
+$background-blue: rgba(3,53,85,1); /* #033555 */
+$dark-blue: rgba(0,64,99,1); /* #004063 */
+$light-blue: rgba(70,152,203,1); /* #4698cb */
+$bright-blue: rgba(21,152,200,1); /* #1598c8 */
+$text: darken(#fff, 15%);
+
+@font-face{
+    font-family: Sentinel;
+    src: url('../webfonts/sentinel/Sentinel-Black.otf');
+    src: url('../webfonts/sentinel/Sentinel-BlackItal.otf');
+    src: url('../webfonts/sentinel/Sentinel-Bold.otf');
+    src: url('../webfonts/sentinel/Sentinel-BoldItal.otf');
+    src: url('../webfonts/sentinel/Sentinel-Book.otf');
+    src: url('../webfonts/sentinel/Sentinel-BookItal.otf');
+    src: url('../webfonts/sentinel/Sentinel-Light.otf');
+    src: url('../webfonts/sentinel/Sentinel-LightItal.otf');
+    src: url('../webfonts/sentinel/Sentinel-Medium.otf');
+    src: url('../webfonts/sentinel/Sentinel-MediumItal.otf');
+    src: url('../webfonts/sentinel/Sentinel-Semibold.otf');
+    src: url('../webfonts/sentinel/Sentinel-SemiboldItal.otf');
+}
+
+@font-face{
+    font-family: Gotham;
+    src: url('../webfonts/gotham/GothamBlack-Italic.otf');
+    src: url('../webfonts/gotham/GothamBlack.otf');
+    src: url('../webfonts/gotham/GothamBold-Italic.otf');
+    src: url('../webfonts/gotham/GothamBold.otf');
+    src: url('../webfonts/gotham/GothamMedium-Italic.otf');
+    src: url('../webfonts/gotham/GothamMedium.otf');
+    src: url('../webfonts/gotham/GothamBook-Italic.otf');
+    src: url('../webfonts/gotham/GothamBook.otf');
+    src: url('../webfonts/gotham/GothamLight.otf');
+    src: url('../webfonts/gotham/GothamLight-Italic.otf');
+    src: url('../webfonts/gotham/GothamThin-Italic.otf');
+    src: url('../webfonts/gotham/GothamThin.otf');
+}
 
 
-@import "ss-social";
 
-$serif: "ff-meta-serif-web-pro","Times New Roman",Georgia,serif;
-$sans: "Proxima-nova",helvetica,arial,sans-serif;
+
 
 body{
-    background: url('../images/aura.png') no-repeat 50% 0, url('../images/background.jpg') 0% 0% repeat-x;
+    background: $background-blue;
+    color: $text;
+    font-family: $serif;
+    font-weight: 100;
+    &.impress-on-thanks{
+        background: url('../images/thank-you.png') 50% 50% no-repeat;
+        background-size: 100%;
+    }
 }
 
 img{
@@ -14,10 +67,94 @@ img{
 }
 
 h1, h2, h3, h4, h5, h6{
+    font-family: $sans;
+    text-transform: uppercase;
+    font-weight: 100;
+    span{
+        font-style: italic;
+    }
+    &.serif{
+        font-family: $serif;
+        font-weight: 900;
+    }
+}
+ p, a, h1, h2, h3, h4, h5, h6, span, ul, ol{
+        &:not(.heading){
+            opacity: 0;
+        }
+    } 
+.active{
+    p, a, h1, h2, h3, h4, h5, h6, span, ul, ol{
+        &:not(.heading){
+            opacity: 1;
+            @include animate;
+            @include delay;
+            @include fadeInUp;
+        }
+    }  
+}
+
+.divider {
+    width:500px;
+    text-align:center;
+}
+.divider hr {
+    width:40%;
+    margin: 12px auto;
+}
+.left {
+    float:left;
+}
+.right {
+    float:right;
+}
+.block{
+    display: block;
+}
+hr{
+    margin: 20px 0;
+    
+}
+.combo{
+    line-height: 1;
+    margin: 0;
+}
+.caption{
+    display: block;
+    width: 100%;
+    text-align: center;
+    line-height: 1;
+    margin: 0 0 4px 0;
+    font-size: 14px;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+.sans{
+    font-family: $sans;
+}
+.serif{
     font-family: $serif;
 }
-p{
-    font-family: $sans;
+
+#logo{
+    @include ir;
+    background: url('../images/logo.png') 50% 50% no-repeat;
+    background-size: 100%;
+    -webkit-transition: height 0.25s linear, width 0.25s linear, top 0.25s linear, left 0.25s linear;
+    -moz-transition: height 0.25s linear, width 0.25s linear, top 0.25s linear, left 0.25s linear;
+    transition: height 0.25s linear, width 0.25s linear, top 0.25s linear, left 0.25s linear;
+    &.main{
+        height: 50px;
+        width: 50px;
+        margin: 100px auto;
+    }
+    &.internal{
+        height: 20px;
+        width: 20px;
+        position: absolute;
+        top: 20px;
+        left: 20px;
+    }
 }
 
 
@@ -40,51 +177,16 @@ p{
 
 .step {
     display: block;
-
-    width: 600px;
-    height: 600px;
+    width: 800px;
+    height: 800px;
     padding: 40px 60px;
-
-    background-color: rgba(0,0,0,0.12);
-    // border: 1px solid rgba(0, 0, 0, .3);
-    border-radius: 10px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, .1);
-
     color: rgba(255,255,255,0.9);
     text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
-    &.white{
-        background: rgba(255,255,255,0.8);
-        color: #333;
-    }
     h1.large{
-        font-family: $serif;
-        font-size: 200px;
-        font-weight: 700;
+        font-size: 100px;
         text-align: center;
         &.semi{
             font-size: 120px;
-        }
-    }
-    h1.medium{
-        font-family: $serif;
-        font-size: 60px;
-        font-weight: 700;
-        text-align: center;
-    }
-    h1.small{
-        font-family: $serif;
-        font-size: 40px;
-        font-weight: 700;
-        text-align: center;
-    }
-    h1.title{
-        font-size: 50px;
-        span{
-            display: inline-block;
-            vertical-align: top;
-            zoom: 1;
-            *display: inline;
-            font-family: italic;
         }
     }
     ul{
@@ -96,96 +198,11 @@ p{
 }
 
 #hey{
-    h1.large{
-        margin-bottom: 80px;
-    }
-    ul{
-        opacity: 0.7;
-        font-family: $sans;
-        // text-transform: uppercase;
-        font-size: 13px;
-        font-weight: 100;
-        span{
-            padding-right: 5px;
-            line-height: 1.3;
-            vertical-align: center;
-        }
-        li{
-            margin: 0 0 5px 0;
-        }
+    .first{
+        font-size: 80px;
     }
 }
 
-#who-am-i{
-    h1{
-        line-height: 1;
-        margin: 225px 0 0 0;
-    }
-    p{
-        font-size: 13px;
-        font-weight: 100;
-        letter-spacing: 0.11em;
-        opacity: 0.75;
-        text-transform: uppercase;
-        margin: -10px 0 0 0;
-        text-align: center;
-    }
-}
-
-#uh-wut{
-    text-align: center;
-    h1{
-        font-size: 20px;
-        span{
-            display: block;
-            margin-bottom: 20px;
-            font-size: 40px;
-            // opacity: 0.8;
-            font-style: italic;
-            &.ampersand{
-                display: inline-block;
-                vertical-align: top;
-                zoom: 1;
-                *display: inline;
-                font-size: 14px;
-                opacity: 1;
-                font-family: $serif;
-                font-style: italic;
-            }
-        }
-        p{
-            font-size: 16px;
-            line-height: 1;
-            margin: 0 0 10px 0;
-            font-family: $sans;
-            font-weight: 100;
-        }
-    }
-}
-
-#obama{
-    background: url('../images/obama-bg.jpg') no-repeat 50% 0;
-    p{
-        font-family: "Proxima-nova",helvetica,arial,sans-serif;
-        text-align: center;
-        font-size: 30px;
-        text-transform: uppercase;
-        font-weight: 100;
-    }
-    span{
-        display: block;
-        width: 410px;
-        margin: 10px auto;
-        padding: 10px;
-        border-top: 1px solid rgba(255,255,255,0.6);
-        border-bottom: 1px solid rgba(255,255,255,0.6);
-        font-family: "ff-meta-serif-web-pro","Times New Roman",Georgia,serif;
-        font-weight: 700;
-        font-size: 18px;
-        text-transform: lowercase;
-        font-style: italic;
-    }
-}
 
 #we-won{
     img{
@@ -229,58 +246,16 @@ p{
     }
 }
 
-#side-project-jekyll-two{
-    width: 1000px;
-    height: 800px;
-    opacity: 0.05;
-    -webkit-transition: opacity 1s linear;
-    -moz-transition: opacity 1s linear;
-    transition: opacity 1s linear;
-    &.active{
-        opacity: 1;
-    }
-}
 
-#jessica-hische{
-    background: #fff url('../images/jessica-hische.jpg') no-repeat 50% 100%;
-    color: #333;
-}
-
-#big-spaceship{
-    background: #c51414 url('../images/big-spaceship.png') no-repeat 50% 70%;
-    text-shadow: 0 1px 1px darken(#c51414, 8%);
-}
-
-#work-hard-2, #work-hard-3, #work-hard-4, #work-hard-5, #work-hard-6{
-    background: none;
-    img{
-        -webkit-box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.2);
-        box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.2);
-    }
-}
-#personal-portfolio{
-    h1{
-        margin-top: 250px;
-    }
-}
-#personal-portfolio-job{
-    text-align: center;
-    h1{
-        margin-top: 150px;
-    }
-    p.caption{
-        font-style: italic;
-    }
-}
-#class-isnt-enough{
-    text-align: center;
-    border: none;
-}
 #thanks{
+    .inner-container{
+        position: relative;
+        z-index: 999;
+    }
     h1{
         line-height: 1;
         margin: 200px 0 0 0;
-        font-size: 170px;
+        font-size: 100px;
     }
     h1, p{
         text-align: center;
