@@ -1,0 +1,3117 @@
+Received: from MELBOURNE.obama.local ([fe80::5158:1b2d:b593:4623]) by
+ Titan.obama.local ([fe80::e47f:3719:7e1a:c3d7%11]) with mapi id
+ 14.01.0355.002; Fri, 24 Aug 2012 16:36:50 -0500
+From: Chris Eldredge <CEldredge@barackobama.com>
+To: Kyle Rush <KRush@barackobama.com>
+CC: Manik Rathee <MRathee@barackobama.com>, Brian Wonch
+	<BWonch@barackobama.com>
+Subject: RE: Sequential donate form results
+Thread-Topic: Sequential donate form results
+Thread-Index:
+ Ac2CC95dTvUJj2QARHe82YXTjkNW3wAAMu2QAAAJicAAEeopAAAKZN3A//+w7ICAAFHMIIAAhqdA
+Date: Fri, 24 Aug 2012 21:36:49 +0000
+Message-ID: <DDCDF7A845617241BB803839320F289C91399AC8@Melbourne.obama.local>
+References: <DDCDF7A845617241BB803839320F289C9139937B@Melbourne.obama.local>
+ <DB2DE33C-B223-4A05-BC2F-DCDC26F56779@barackobama.com>
+ <DDCDF7A845617241BB803839320F289C91399401@Melbourne.obama.local>
+ <44BA9E20-4EE3-40B9-A4C6-581B0E47BD1D@barackobama.com>
+ <DDCDF7A845617241BB803839320F289C91399896@Melbourne.obama.local>
+ <2E988966-4D22-4BD9-8BCC-433ED8A2D6F4@barackobama.com> 
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: Titan.obama.local
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+Content-Type: multipart/mixed;
+	boundary="_004_DDCDF7A845617241BB803839320F289C91399AC8Melbourneobamal_"
+MIME-Version: 1.0
+
+--_004_DDCDF7A845617241BB803839320F289C91399AC8Melbourneobamal_
+Content-Type: multipart/alternative;
+	boundary="_000_DDCDF7A845617241BB803839320F289C91399AC8Melbourneobamal_"
+
+--_000_DDCDF7A845617241BB803839320F289C91399AC8Melbourneobamal_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+OK, I've pasted a table that summarizes results below, including Save Payme=
+nt and Errors.  Also attached a sheet with a more detailed break-out.
+
+I'd forgotten how much of an improvement the new form makes with save payme=
+nt!  I'm a little weary of including errors because users probably still re=
+ceived errors on the sequential form, they just fixed most before hitting t=
+he final submit button.
+
+I double checked everything but shout out if anything looks strange, or if =
+you'd like me to make any changes.
+Thanks,
+Chris
+
+Traffic source
+
+Date
+
+Increased Donations
+
+Increased Save Payment
+
+Reduced Errors
+
+
+Birthday contest email
+
+7/26/2012
+
+-4.1%
+
+-0.7%
+
+-60.2%
+
+
+Birthday contest email
+
+7/26/2012
+
+-0.2%
+
+9.4%
+
+-56.0%
+
+
+Deadline email
+
+7/26/2012
+
+3.8%
+
+13.5%
+
+-50.8%
+
+
+Dinner with Barack ads
+
+7/26/2012
+
+-0.7%
+
+6.3%
+
+-79.1%
+
+
+Birthday card email*
+
+7/28/2012
+
+2.6%
+
+7.6%
+
+-47.8%
+
+
+Deadline email
+
+7/28/2012
+
+2.9%
+
+14.4%
+
+-64.7%
+
+
+Obama Classic email**
+
+8/7/2012
+
+5.5%
+
+12.8%
+
+-76.9%
+
+
+
+
+Red and green indicate significant differences
+
+* Functionality allowing a visitor to return to previous steps added
+
+** Excluded mobile traffic, where the sequential form does not display
+
+
+
+
+From: Chris Eldredge
+Sent: Friday, August 24, 2012 2:50 PM
+To: Kyle Rush
+Cc: Manik Rathee; Brian Wonch
+Subject: RE: Sequential donate form results
+
+Thanks, I'll add in save payment opt in and other error tracking.
+
+The full results for the experiment excluding mobile traffic are here: http=
+s://www.optimizely.com/results?experiment_id=3D89454048
+
+It looks like around 12 PM with around 1000 visitors we detected about a 10=
+% improvement. When the test was switched off around 10 PM with 11.5K visit=
+ors, it showed 5.5% improvement.
+
+Also, I made a really stupid mistake that threw off the rounding. Corrected=
+ and triple-checked chart below. I'll gather the other numbers and send the=
+m around in a bit.
+
+
+
+Control
+
+Sequential
+
+Traffic source
+
+Date
+
+Donations
+
+Visitors
+
+Rate
+
+Donations
+
+Visitors
+
+Rate
+
+Relative improvement
+
+Significant?
+
+Birthday contest email
+
+7/26/2012
+
+          1,790
+
+       6,546
+
+27.3%
+
+          1,715
+
+       6,540
+
+26.2%
+
+-4.1%
+
+No
+
+Birthday contest email
+
+7/26/2012
+
+          3,172
+
+     12,918
+
+24.6%
+
+          3,201
+
+     13,063
+
+24.5%
+
+-0.2%
+
+No
+
+Deadline email
+
+7/26/2012
+
+          2,156
+
+       6,384
+
+33.8%
+
+          2,188
+
+       6,239
+
+35.1%
+
+3.8%
+
+No
+
+Dinner with Barack ads
+
+7/26/2012
+
+          1,368
+
+     15,599
+
+8.8%
+
+          1,365
+
+     15,676
+
+8.7%
+
+-0.7%
+
+No
+
+Birthday card email*
+
+7/28/2012
+
+       10,778
+
+   181,611
+
+5.9%
+
+       11,055
+
+   181,528
+
+6.1%
+
+2.6%
+
+Yes
+
+Deadline email
+
+7/28/2012
+
+          6,010
+
+     11,263
+
+53.4%
+
+          6,226
+
+     11,337
+
+54.9%
+
+2.9%
+
+Yes
+
+Obama Classic email**
+
+8/7/2012
+
+          2,256
+
+       5,803
+
+38.9%
+
+          2,353
+
+       5,735
+
+41.0%
+
+5.5%
+
+Yes
+
+
+* Functionality allowing a visitor to return to previous steps added
+
+** Excluded mobile traffic, where the sequential form does not display
+
+
+
+
+
+From: Kyle Rush
+Sent: Friday, August 24, 2012 2:14 PM
+To: Chris Eldredge
+Cc: Manik Rathee; Brian Wonch
+Subject: Re: Sequential donate form results
+
+I remember there being a test that had an increase for 7% when we excluded =
+mobile traffic. I'm not seeing that in the result below. I'm just misrememb=
+ering that?
+
+We need to include the change in quick donate opt-ins in this data. that's =
+the big one.
+
+On Aug 24, 2012, at 2:02 PM, Chris Eldredge <CEldredge@barackobama.com<mail=
+to:CEldredge@barackobama.com>>
+ wrote:
+
+That's probably do-able. I'll take a look.
+
+From: Manik Rathee
+Sent: Friday, August 24, 2012 1:59 PM
+To: Chris Eldredge
+Cc: Kyle Rush; Brian Wonch
+Subject: Re: Sequential donate form results
+
+would it be too much work to include other goals from those tests? a lot of=
+ them had error feedback that showed a massive decline in server errors, am=
+ong other things.
+
+If it's too much, I can just dig up the tests and take some screenshots to =
+work from
+
+Thanks,
+Manik Rathee
+User Experience Engineer, Obama For America
+www.barackobama.com<http://www.barackobama.com>
+
+On Aug 24, 2012, at 10:26 AM, Chris Eldredge <CEldredge@barackobama.com<mai=
+lto:CEldredge@barackobama.com>> wrote:
+
+
+OK, cool. Added Kyle too because he asked for the same thing
+
+From: Manik Rathee
+Sent: Friday, August 24, 2012 10:25 AM
+To: Chris Eldredge
+Cc: Kyle Rush; Brian Wonch
+Subject: Re: Sequential donate form results
+
+Chris - this was just for me to go over and potentially put something toget=
+her
+
+And holy cow this is awesome - ill look over it and see if there's any othe=
+r data that would be helpful
+Thanks,
+Manik Rathee
+User Experience Engineer
+Obama For America
+www.barackobama.com<http://www.barackobama.com>
+
+
+Sent from my iPhone
+
+On Aug 24, 2012, at 10:19 AM, "Chris Eldredge" <CEldredge@barackobama.com<m=
+ailto:CEldredge@barackobama.com>> wrote:
+Kyle & Manik, is this what you guys are after?  Let me know if you'd like m=
+e to add or change anything!
+
+
+Summary: The 4 experiments from July 26 were ties. The following 3 split te=
+sts detected an improvement.
+
+
+Control
+
+Sequential
+
+Traffic source
+
+Date
+
+Donations
+
+Visitors
+
+Donation Rate
+
+Donations
+
+Visitors
+
+Donation
+Rate
+
+Relative improvement
+
+Significant difference?
+
+Birthday contest email
+
+7/26/2012
+
+          1,790
+
+       6,546
+
+27.3%
+
+          1,715
+
+       6,540
+
+26.2%
+
+-4.3%
+
+No
+
+Birthday contest email
+
+7/26/2012
+
+          3,172
+
+     12,918
+
+24.6%
+
+          3,201
+
+     13,063
+
+24.5%
+
+-0.2%
+
+No
+
+Deadline email
+
+7/26/2012
+
+          2,156
+
+       6,384
+
+33.8%
+
+          2,188
+
+       6,239
+
+35.1%
+
+3.7%
+
+No
+
+Dinner with Barack ads
+
+7/26/2012
+
+          1,368
+
+     15,599
+
+8.8%
+
+         1,365
+
+     15,676
+
+8.7%
+
+-0.7%
+
+No
+
+Birthday card email*
+
+7/28/2012
+
+       10,778
+
+   181,611
+
+5.9%
+
+       11,055
+
+   181,528
+
+6.1%
+
+2.6%
+
+Yes
+
+Deadline email
+
+7/28/2012
+
+          6,010
+
+     11,263
+
+53.4%
+
+          6,226
+
+     11,337
+
+54.9%
+
+2.8%
+
+Yes
+
+Obama Classic email**
+
+8/7/2012
+
+          2,256
+
+       5,803
+
+38.9%
+
+          2,353
+
+       5,735
+
+41.0%
+
+5.2%
+
+Yes
+
+
+* Functionality allowing a visitor to return to previous steps added
+** Excluded mobile traffic, where the sequential form does not display
+
+
+
+
+--_000_DDCDF7A845617241BB803839320F289C91399AC8Melbourneobamal_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns:m=3D"http://schema=
+s.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html=
+40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<base href=3D"x-msg://57/"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;}
+span.apple-style-span
+	{mso-style-name:apple-style-span;}
+span.EmailStyle21
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle22
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">OK, I&#8217;ve pasted a t=
+able that summarizes results below, including Save Payment and Errors.&nbsp=
+; Also attached a sheet with a more detailed break-out.<o:p></o:p></span></=
+p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">I&#8217;d forgotten how m=
+uch of an improvement the new form makes with save payment!&nbsp; I&#8217;m=
+ a little weary of including errors because users probably still received
+ errors on the sequential form, they just fixed most before hitting the fin=
+al submit button.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">I double checked everythi=
+ng but shout out if anything looks strange, or if you&#8217;d like me to ma=
+ke any changes.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Thanks,<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Chris</span><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"457" style=3D"width:343.0pt;margin-left:-1.15pt;border-coll=
+apse:collapse">
+<tbody>
+<tr style=3D"height:45.0pt">
+<td width=3D"169" style=3D"width:126.5pt;border:solid windowtext 1.0pt;back=
+ground:#F2F2F2;padding:0in 5.4pt 0in 5.4pt;height:45.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;;color:black">Traffic source<o:p></o:p></span></b></p>
+</td>
+<td width=3D"68" style=3D"width:50.85pt;border:solid windowtext 1.0pt;borde=
+r-left:none;background:#F2F2F2;padding:0in 5.4pt 0in 5.4pt;height:45.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;;color:black">Date<o:p></o:p></span></b></p>
+</td>
+<td width=3D"76" style=3D"width:57.35pt;border:solid windowtext 1.0pt;borde=
+r-left:none;background:#F2F2F2;padding:0in 5.4pt 0in 5.4pt;height:45.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;;color:black">Increased Donations<o:p></o:p></span></b></p>
+</td>
+<td width=3D"74" style=3D"width:55.3pt;border:solid windowtext 1.0pt;border=
+-left:none;background:#F2F2F2;padding:0in 5.4pt 0in 5.4pt;height:45.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;;color:black">Increased Save Payment<o:p></o:p></span></b></p>
+</td>
+<td width=3D"66" style=3D"width:49.4pt;border:solid windowtext 1.0pt;border=
+-left:none;background:#F2F2F2;padding:0in 5.4pt 0in 5.4pt;height:45.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;;color:black">Reduced Errors<o:p></o:p></span></b></p>
+</td>
+<td style=3D"border:none;padding:0in 0in 0in 0in" width=3D"5" colspan=3D"2"=
+>
+<p class=3D"MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"169" nowrap=3D"" style=3D"width:126.5pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">Birthday contest email<o:p></o:p></span></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:50.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">7/26/2012<o:p></o:p></span></p>
+</td>
+<td width=3D"76" nowrap=3D"" style=3D"width:57.35pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">-4.1%<o:p></o:p></span></p>
+</td>
+<td width=3D"74" style=3D"width:55.3pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">-0.7%<o:p></o:p></span></p>
+</td>
+<td width=3D"66" style=3D"width:49.4pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#C00000">-60.2%<o:p></o:p></span></p>
+</td>
+<td style=3D"border:none;padding:0in 0in 0in 0in" width=3D"5" colspan=3D"2"=
+>
+<p class=3D"MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"169" nowrap=3D"" style=3D"width:126.5pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">Birthday contest email<o:p></o:p></span></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:50.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">7/26/2012<o:p></o:p></span></p>
+</td>
+<td width=3D"76" nowrap=3D"" style=3D"width:57.35pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">-0.2%<o:p></o:p></span></p>
+</td>
+<td width=3D"74" style=3D"width:55.3pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#00B050">9.4%<o:p></o:p></span></p>
+</td>
+<td width=3D"66" style=3D"width:49.4pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#C00000">-56.0%<o:p></o:p></span></p>
+</td>
+<td style=3D"border:none;padding:0in 0in 0in 0in" width=3D"5" colspan=3D"2"=
+>
+<p class=3D"MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"169" nowrap=3D"" style=3D"width:126.5pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">Deadline email<o:p></o:p></span></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:50.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">7/26/2012<o:p></o:p></span></p>
+</td>
+<td width=3D"76" nowrap=3D"" style=3D"width:57.35pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">3.8%<o:p></o:p></span></p>
+</td>
+<td width=3D"74" style=3D"width:55.3pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#00B050">13.5%<o:p></o:p></span></p>
+</td>
+<td width=3D"66" style=3D"width:49.4pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#C00000">-50.8%<o:p></o:p></span></p>
+</td>
+<td style=3D"border:none;padding:0in 0in 0in 0in" width=3D"5" colspan=3D"2"=
+>
+<p class=3D"MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"169" nowrap=3D"" style=3D"width:126.5pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">Dinner with Barack ads<o:p></o:p></span></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:50.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">7/26/2012<o:p></o:p></span></p>
+</td>
+<td width=3D"76" nowrap=3D"" style=3D"width:57.35pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">-0.7%<o:p></o:p></span></p>
+</td>
+<td width=3D"74" style=3D"width:55.3pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">6.3%<o:p></o:p></span></p>
+</td>
+<td width=3D"66" style=3D"width:49.4pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#C00000">-79.1%<o:p></o:p></span></p>
+</td>
+<td style=3D"border:none;padding:0in 0in 0in 0in" width=3D"5" colspan=3D"2"=
+>
+<p class=3D"MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"169" nowrap=3D"" style=3D"width:126.5pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">Birthday card email*<o:p></o:p></span></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:50.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">7/28/2012<o:p></o:p></span></p>
+</td>
+<td width=3D"76" nowrap=3D"" style=3D"width:57.35pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#00B050">2.6%<o:p></o:p></span></p>
+</td>
+<td width=3D"74" style=3D"width:55.3pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#00B050">7.6%<o:p></o:p></span></p>
+</td>
+<td width=3D"66" style=3D"width:49.4pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#C00000">-47.8%<o:p></o:p></span></p>
+</td>
+<td style=3D"border:none;padding:0in 0in 0in 0in" width=3D"5" colspan=3D"2"=
+>
+<p class=3D"MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"169" nowrap=3D"" style=3D"width:126.5pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">Deadline email<o:p></o:p></span></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:50.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">7/28/2012<o:p></o:p></span></p>
+</td>
+<td width=3D"76" nowrap=3D"" style=3D"width:57.35pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#00B050">2.9%<o:p></o:p></span></p>
+</td>
+<td width=3D"74" style=3D"width:55.3pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#00B050">14.4%<o:p></o:p></span></p>
+</td>
+<td width=3D"66" style=3D"width:49.4pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#C00000">-64.7%<o:p></o:p></span></p>
+</td>
+<td style=3D"border:none;padding:0in 0in 0in 0in" width=3D"5" colspan=3D"2"=
+>
+<p class=3D"MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"169" nowrap=3D"" style=3D"width:126.5pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">Obama Classic email**<o:p></o:p></span></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:50.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:black">8/7/2012<o:p></o:p></span></p>
+</td>
+<td width=3D"76" nowrap=3D"" style=3D"width:57.35pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#00B050">5.5%<o:p></o:p></span></p>
+</td>
+<td width=3D"74" style=3D"width:55.3pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#00B050">12.8%<o:p></o:p></span></p>
+</td>
+<td width=3D"66" style=3D"width:49.4pt;border-top:none;border-left:none;bor=
+der-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;paddi=
+ng:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#C00000">-76.9%<o:p></o:p></span></p>
+</td>
+<td style=3D"border:none;padding:0in 0in 0in 0in" width=3D"5" colspan=3D"2"=
+>
+<p class=3D"MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"169" nowrap=3D"" valign=3D"bottom" style=3D"width:126.5pt;padd=
+ing:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"68" nowrap=3D"" valign=3D"bottom" style=3D"width:50.85pt;paddi=
+ng:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"76" nowrap=3D"" style=3D"width:57.35pt;padding:0in 5.4pt 0in 5=
+.4pt;height:15.0pt">
+</td>
+<td width=3D"74" nowrap=3D"" valign=3D"bottom" style=3D"width:55.3pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"66" nowrap=3D"" valign=3D"bottom" style=3D"width:49.4pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td style=3D"border:none;padding:0in 0in 0in 0in" width=3D"5" colspan=3D"2"=
+>
+<p class=3D"MsoNormal">&nbsp;</p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"453" nowrap=3D"" colspan=3D"5" style=3D"width:339.4pt;padding:=
+0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:#C00000">Red
+</span><span style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:black">and
+</span><span style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:#00B050">green
+</span><span style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:black">indicate significant differences</span><span=
+ style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&=
+quot;;color:#C00000"><o:p></o:p></span></p>
+</td>
+<td width=3D"2" nowrap=3D"" valign=3D"bottom" style=3D"width:1.8pt;padding:=
+0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"2" nowrap=3D"" valign=3D"bottom" style=3D"width:1.8pt;padding:=
+0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"455" nowrap=3D"" colspan=3D"6" valign=3D"top" style=3D"width:3=
+41.2pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:black">* Functionality allowing a v=
+isitor to return to previous steps added<o:p></o:p></span></p>
+</td>
+<td width=3D"2" nowrap=3D"" valign=3D"bottom" style=3D"width:1.8pt;padding:=
+0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"457" nowrap=3D"" colspan=3D"7" valign=3D"top" style=3D"width:3=
+43.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:black">** Excluded mobile traffic, =
+where the sequential form does not display<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Chris El=
+dredge
+<br>
+<b>Sent:</b> Friday, August 24, 2012 2:50 PM<br>
+<b>To:</b> Kyle Rush<br>
+<b>Cc:</b> Manik Rathee; Brian Wonch<br>
+<b>Subject:</b> RE: Sequential donate form results<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Thanks, I&#8217;ll add in=
+ save payment opt in and other error tracking.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">The full results for the =
+experiment excluding mobile traffic are here:
+</span><a href=3D"https://www.optimizely.com/results?experiment_id=3D894540=
+48">https://www.optimizely.com/results?experiment_id=3D89454048</a><span st=
+yle=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:#1F497D">
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">It looks like around 12 P=
+M with around 1000 visitors we detected about a 10% improvement. When the t=
+est was switched off around 10 PM with 11.5K visitors, it
+ showed 5.5% improvement.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Also, I made a really stu=
+pid mistake that threw off the rounding. Corrected and triple-checked chart=
+ below. I&#8217;ll gather the other numbers and send them around
+ in a bit.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span></=
+p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"743" style=3D"width:557.0pt;margin-left:-.75pt;border-colla=
+pse:collapse">
+<tbody>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;padding:0in 5.4pt 0in =
+5.4pt;height:15.0pt">
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;padding:0in 5.4pt 0in 5.=
+4pt;height:15.0pt">
+</td>
+<td width=3D"176" nowrap=3D"" colspan=3D"3" style=3D"width:132.0pt;border:s=
+olid windowtext 1.0pt;border-bottom:solid black 1.0pt;background:#EEECE1;pa=
+dding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:black">Control<o:p></o:p></span></b></p>
+</td>
+<td width=3D"176" nowrap=3D"" colspan=3D"3" style=3D"width:132.0pt;border:s=
+olid windowtext 1.0pt;border-left:none;background:#DCE6F1;padding:0in 5.4pt=
+ 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:black">Sequential<o:p></o:p></span></b></p>
+</td>
+<td width=3D"93" nowrap=3D"" style=3D"width:70.0pt;padding:0in 5.4pt 0in 5.=
+4pt;height:15.0pt">
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;padding:0in 5.4pt 0in 5.=
+4pt;height:15.0pt">
+</td>
+</tr>
+<tr style=3D"height:30.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;border:solid windowtex=
+t 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:30.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:black">Traffic source<o:p></o:p></span></b></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:black">Date<o:p></o:p></span></b></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:black">Donations<o:p></o:p></span></b></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:black">Visitors<o:p></o:p></span></b></p>
+</td>
+<td width=3D"41" nowrap=3D"" style=3D"width:30.4pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:black">Rate<o:p></o:p></span></b></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:black">Donations<o:p></o:p></span></b></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:black">Visitors<o:p></o:p></span></b></p>
+</td>
+<td width=3D"41" nowrap=3D"" style=3D"width:30.4pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:black">Rate<o:p></o:p></span></b></p>
+</td>
+<td width=3D"93" style=3D"width:70.0pt;border:solid windowtext 1.0pt;border=
+-left:none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:black">Relative improvement<o:p></o:p></span></b></p>
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:black">Significant?<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">Birthday contest email<o:p></o:p></span></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">7/26/2012<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1,7=
+90
+<o:p></o:p></span></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6,546
+<o:p></o:p></span></p>
+</td>
+<td width=3D"41" nowrap=3D"" style=3D"width:30.4pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">27.3%<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1,7=
+15
+<o:p></o:p></span></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6,540
+<o:p></o:p></span></p>
+</td>
+<td width=3D"41" nowrap=3D"" style=3D"width:30.4pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">26.2%<o:p></o:p></span></p>
+</td>
+<td width=3D"93" nowrap=3D"" style=3D"width:70.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">-4.1%<o:p></o:p></span></p>
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">No<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">Birthday contest email<o:p></o:p></span></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">7/26/2012<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3,1=
+72
+<o:p></o:p></span></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12,918
+<o:p></o:p></span></p>
+</td>
+<td width=3D"41" nowrap=3D"" style=3D"width:30.4pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">24.6%<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3,2=
+01
+<o:p></o:p></span></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13,063
+<o:p></o:p></span></p>
+</td>
+<td width=3D"41" nowrap=3D"" style=3D"width:30.4pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">24.5%<o:p></o:p></span></p>
+</td>
+<td width=3D"93" nowrap=3D"" style=3D"width:70.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">-0.2%<o:p></o:p></span></p>
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">No<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">Deadline email<o:p></o:p></span></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">7/26/2012<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2,1=
+56
+<o:p></o:p></span></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6,384
+<o:p></o:p></span></p>
+</td>
+<td width=3D"41" nowrap=3D"" style=3D"width:30.4pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">33.8%<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2,1=
+88
+<o:p></o:p></span></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6,239
+<o:p></o:p></span></p>
+</td>
+<td width=3D"41" nowrap=3D"" style=3D"width:30.4pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">35.1%<o:p></o:p></span></p>
+</td>
+<td width=3D"93" nowrap=3D"" style=3D"width:70.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">3.8%<o:p></o:p></span></p>
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">No<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">Dinner with Barack ads<o:p></o:p></span></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">7/26/2012<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1,3=
+68
+<o:p></o:p></span></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15,599
+<o:p></o:p></span></p>
+</td>
+<td width=3D"41" nowrap=3D"" style=3D"width:30.4pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">8.8%<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1,3=
+65
+<o:p></o:p></span></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15,676
+<o:p></o:p></span></p>
+</td>
+<td width=3D"41" nowrap=3D"" style=3D"width:30.4pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">8.7%<o:p></o:p></span></p>
+</td>
+<td width=3D"93" nowrap=3D"" style=3D"width:70.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">-0.7%<o:p></o:p></span></p>
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">No<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">Birthday card email*<o:p></o:p></span></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">7/28/2012<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10,778
+<o:p></o:p></span></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;181,611
+<o:p></o:p></span></p>
+</td>
+<td width=3D"41" nowrap=3D"" style=3D"width:30.4pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">5.9%<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11,055
+<o:p></o:p></span></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;181,528
+<o:p></o:p></span></p>
+</td>
+<td width=3D"41" nowrap=3D"" style=3D"width:30.4pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">6.1%<o:p></o:p></span></p>
+</td>
+<td width=3D"93" nowrap=3D"" style=3D"width:70.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:black">2.6%<o:p></o:p></span></b></p>
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:#00B050">Yes<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">Deadline email<o:p></o:p></span></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">7/28/2012<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6,0=
+10
+<o:p></o:p></span></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11,263
+<o:p></o:p></span></p>
+</td>
+<td width=3D"41" nowrap=3D"" style=3D"width:30.4pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">53.4%<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6,2=
+26
+<o:p></o:p></span></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11,337
+<o:p></o:p></span></p>
+</td>
+<td width=3D"41" nowrap=3D"" style=3D"width:30.4pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">54.9%<o:p></o:p></span></p>
+</td>
+<td width=3D"93" nowrap=3D"" style=3D"width:70.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:black">2.9%<o:p></o:p></span></b></p>
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:#00B050">Yes<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">Obama Classic email**<o:p></o:p></span></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">8/7/2012<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2,2=
+56
+<o:p></o:p></span></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5,803
+<o:p></o:p></span></p>
+</td>
+<td width=3D"41" nowrap=3D"" style=3D"width:30.4pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">38.9%<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2,3=
+53
+<o:p></o:p></span></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5,735
+<o:p></o:p></span></p>
+</td>
+<td width=3D"41" nowrap=3D"" style=3D"width:30.4pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:black">41.0%<o:p></o:p></span></p>
+</td>
+<td width=3D"93" nowrap=3D"" style=3D"width:70.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:black">5.5%<o:p></o:p></span></b></p>
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:#00B050">Yes<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" valign=3D"bottom" style=3D"width:113.0pt;padd=
+ing:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"68" nowrap=3D"" valign=3D"bottom" style=3D"width:51.0pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"72" nowrap=3D"" valign=3D"bottom" style=3D"width:54.1pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"63" nowrap=3D"" valign=3D"bottom" style=3D"width:47.5pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"41" nowrap=3D"" valign=3D"bottom" style=3D"width:30.4pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"72" nowrap=3D"" valign=3D"bottom" style=3D"width:54.1pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"63" nowrap=3D"" valign=3D"bottom" style=3D"width:47.5pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"41" nowrap=3D"" valign=3D"bottom" style=3D"width:30.4pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"93" nowrap=3D"" style=3D"width:70.0pt;padding:0in 5.4pt 0in 5.=
+4pt;height:15.0pt">
+</td>
+<td width=3D"79" nowrap=3D"" valign=3D"bottom" style=3D"width:59.0pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"467" nowrap=3D"" colspan=3D"6" valign=3D"top" style=3D"width:3=
+50.1pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:black">* Functionality allowing a v=
+isitor to return to previous steps added<o:p></o:p></span></p>
+</td>
+<td width=3D"63" nowrap=3D"" valign=3D"bottom" style=3D"width:47.5pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"41" nowrap=3D"" valign=3D"bottom" style=3D"width:30.4pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"93" nowrap=3D"" valign=3D"bottom" style=3D"width:70.0pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"79" nowrap=3D"" valign=3D"bottom" style=3D"width:59.0pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"467" nowrap=3D"" colspan=3D"6" valign=3D"top" style=3D"width:3=
+50.1pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:black">** Excluded mobile traffic, =
+where the sequential form does not display<o:p></o:p></span></p>
+</td>
+<td width=3D"63" nowrap=3D"" valign=3D"bottom" style=3D"width:47.5pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"41" nowrap=3D"" valign=3D"bottom" style=3D"width:30.4pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"93" nowrap=3D"" valign=3D"bottom" style=3D"width:70.0pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"79" nowrap=3D"" valign=3D"bottom" style=3D"width:59.0pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Kyle Rus=
+h
+<br>
+<b>Sent:</b> Friday, August 24, 2012 2:14 PM<br>
+<b>To:</b> Chris Eldredge<br>
+<b>Cc:</b> Manik Rathee; Brian Wonch<br>
+<b>Subject:</b> Re: Sequential donate form results<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal">I remember there being a test that had an increase f=
+or 7% when we excluded mobile traffic. I'm not seeing that in the result be=
+low. I'm just misremembering that?<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">We need to include the change in quick donate opt-in=
+s in this data. that's the big one.<o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div>
+<p class=3D"MsoNormal">On Aug 24, 2012, at 2:02 PM, Chris Eldredge &lt;<a h=
+ref=3D"mailto:CEldredge@barackobama.com">CEldredge@barackobama.com</a>&gt;<=
+o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">&nbsp;wrote:<o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><o:p>&nbsp;</o:p></p>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">That&#8217;s probably do-=
+able. I&#8217;ll take a look.</span><o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">&nbsp;</span><o:p></o:p><=
+/p>
+</div>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<div>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span class=3D"apple-=
+converted-space"><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,&quot;sans-serif&quot;">&nbsp;</span></span><span style=3D"font-size:1=
+0.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">Manik
+ Rathee<span class=3D"apple-converted-space">&nbsp;</span><br>
+<b>Sent:</b><span class=3D"apple-converted-space">&nbsp;</span>Friday, Augu=
+st 24, 2012 1:59 PM<br>
+<b>To:</b><span class=3D"apple-converted-space">&nbsp;</span>Chris Eldredge=
+<br>
+<b>Cc:</b><span class=3D"apple-converted-space">&nbsp;</span>Kyle Rush; Bri=
+an Wonch<br>
+<b>Subject:</b><span class=3D"apple-converted-space">&nbsp;</span>Re: Seque=
+ntial donate form results</span><o:p></o:p></p>
+</div>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">would it be too much work to include other goals fro=
+m those tests? a lot of them had error feedback that showed a massive decli=
+ne in server errors, among other things.<o:p></o:p></p>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal">If it's too much, I can just dig up the tests and ta=
+ke some screenshots to work from<o:p></o:p></p>
+</div>
+<div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:13.5pt;font-family:&quot;He=
+lvetica&quot;,&quot;sans-serif&quot;"><br>
+Thanks,</span><o:p></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:13.5pt;font-family:&quot;He=
+lvetica&quot;,&quot;sans-serif&quot;">Manik Rathee</span><o:p></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:13.5pt;font-family:&quot;He=
+lvetica&quot;,&quot;sans-serif&quot;">User Experience Engineer,&nbsp;Obama =
+For America</span><o:p></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:13.5pt;font-family:&quot;He=
+lvetica&quot;,&quot;sans-serif&quot;"><a href=3D"http://www.barackobama.com=
+"><span style=3D"color:purple">www.barackobama.com</span></a></span><o:p></=
+o:p></p>
+</div>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<div>
+<div>
+<p class=3D"MsoNormal">On Aug 24, 2012, at 10:26 AM, Chris Eldredge &lt;<a =
+href=3D"mailto:CEldredge@barackobama.com"><span style=3D"color:purple">CEld=
+redge@barackobama.com</span></a>&gt; wrote:<o:p></o:p></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><br>
+<br>
+<o:p></o:p></p>
+</div>
+<div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">OK, cool. Added Kyle too =
+because he asked for the same thing</span><o:p></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">&nbsp;</span><o:p></o:p><=
+/p>
+</div>
+</div>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<div>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span class=3D"apple-=
+converted-space"><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,&quot;sans-serif&quot;">&nbsp;</span></span><span style=3D"font-size:1=
+0.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">Manik
+ Rathee<span class=3D"apple-converted-space">&nbsp;</span><br>
+<b>Sent:</b><span class=3D"apple-converted-space">&nbsp;</span>Friday, Augu=
+st 24, 2012 10:25 AM<br>
+<b>To:</b><span class=3D"apple-converted-space">&nbsp;</span>Chris Eldredge=
+<br>
+<b>Cc:</b><span class=3D"apple-converted-space">&nbsp;</span>Kyle Rush; Bri=
+an Wonch<br>
+<b>Subject:</b><span class=3D"apple-converted-space">&nbsp;</span>Re: Seque=
+ntial donate form results</span><o:p></o:p></p>
+</div>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;">&nbsp;</span><o:p></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;">Chris - this was just for me to go over=
+ and potentially put something together</span><o:p></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;">&nbsp;</span><o:p></o:p></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><span style=3D"font-s=
+ize:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">And holy=
+ cow this is awesome - ill look over it and see if there's any other data t=
+hat would be helpful</span><o:p></o:p></p>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;">Thanks,</span><o:p></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;">Manik Rathee</span><o:p></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;">User Experience Engineer</span><o:p></o=
+:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span class=3D"apple-style-span"><span style=3D"font=
+-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Obama =
+For America</span></span><o:p></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;"><a href=3D"http://www.barackobama.com">=
+<span style=3D"color:purple">www.barackobama.com</span></a></span><o:p></o:=
+p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;">&nbsp;</span><o:p></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;">&nbsp;</span><o:p></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;">Sent from my iPhone</span><o:p></o:p></=
+p>
+</div>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><span style=3D"font-s=
+ize:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"><br>
+On Aug 24, 2012, at 10:19 AM, &quot;Chris Eldredge&quot; &lt;<a href=3D"mai=
+lto:CEldredge@barackobama.com"><span style=3D"color:purple">CEldredge@barac=
+kobama.com</span></a>&gt; wrote:</span><o:p></o:p></p>
+</div>
+<blockquote style=3D"margin-top:5.0pt;margin-bottom:5.0pt">
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;">Kyle &amp; Manik, is this what you guys=
+ are after?&nbsp; Let me know if you&#8217;d like me to add or change anyth=
+ing!</span><o:p></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;">&nbsp;</span><o:p></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;">&nbsp;</span><o:p></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;">Summary: The 4 experiments from July 26=
+ were ties. The following 3 split tests detected an improvement.</span><o:p=
+></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;">&nbsp;</span><o:p></o:p></p>
+</div>
+</div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"750" style=3D"width:562.7pt;margin-left:-.75pt;border-colla=
+pse:collapse">
+<tbody>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;padding:0in 5.4pt 0in =
+5.4pt;height:15.0pt">
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;padding:0in 5.4pt 0in 5.=
+4pt;height:15.0pt">
+</td>
+<td width=3D"180" nowrap=3D"" colspan=3D"3" style=3D"width:134.85pt;border:=
+solid windowtext 1.0pt;border-bottom:solid black 1.0pt;background:#EEECE1;p=
+adding:0in 5.4pt 0in 5.4pt;height:15.0pt;background-position:initial initia=
+l;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">Control</span></b><o:p></o:p></p>
+</td>
+<td width=3D"180" nowrap=3D"" colspan=3D"3" style=3D"width:134.85pt;border:=
+solid windowtext 1.0pt;border-left:none;background:#DCE6F1;padding:0in 5.4p=
+t 0in 5.4pt;height:15.0pt;background-position:initial initial;background-re=
+peat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">Sequential</span></b><o:p></o:p></p>
+</td>
+<td width=3D"93" nowrap=3D"" style=3D"width:70.0pt;padding:0in 5.4pt 0in 5.=
+4pt;height:15.0pt">
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;padding:0in 5.4pt 0in 5.=
+4pt;height:15.0pt">
+</td>
+</tr>
+<tr style=3D"height:30.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;border:solid windowtex=
+t 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:30.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">Traffic source</span></b><o:p></o:p></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">Date</span></b><o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">Donations</span></b><o:p></o:p></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">Visitors</span></b><o:p></o:p></p>
+</td>
+<td width=3D"44" nowrap=3D"" style=3D"width:33.25pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt;backgrou=
+nd-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">Donation Rate</span></b><o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">Donations</span></b><o:p></o:p></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">Visitors</span></b><o:p></o:p></p>
+</td>
+<td width=3D"44" nowrap=3D"" style=3D"width:33.25pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt;backgrou=
+nd-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">Donation</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">Rate</span></b><o:p></o:p></p>
+</td>
+<td width=3D"93" style=3D"width:70.0pt;border:solid windowtext 1.0pt;border=
+-left:none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">Relative improvement</span></b><o:p></o:p></p>
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">Significant difference?</span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">Birthday contest email</span><o:p></o:p></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">7/26/2012</span><o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1,790</span><o:=
+p></o:p></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6,546</span><o:p></o:p></p>
+</td>
+<td width=3D"44" nowrap=3D"" style=3D"width:33.25pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgrou=
+nd-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">27.3%</span><o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1,715</span><o:=
+p></o:p></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6,540</span><o:p></o:p></p>
+</td>
+<td width=3D"44" nowrap=3D"" style=3D"width:33.25pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgrou=
+nd-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">26.2%</span><o:p></o:p></p>
+</td>
+<td width=3D"93" nowrap=3D"" style=3D"width:70.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">-4.3%</span><o:p></o:p></p>
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">No</span><o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">Birthday contest email</span><o:p></o:p></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">7/26/2012</span><o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3,172</span><o:=
+p></o:p></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12,918</span><o:p></o:p></p>
+</td>
+<td width=3D"44" nowrap=3D"" style=3D"width:33.25pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgrou=
+nd-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">24.6%</span><o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3,201</span><o:=
+p></o:p></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13,063</span><o:p></o:p></p>
+</td>
+<td width=3D"44" nowrap=3D"" style=3D"width:33.25pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgrou=
+nd-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">24.5%</span><o:p></o:p></p>
+</td>
+<td width=3D"93" nowrap=3D"" style=3D"width:70.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">-0.2%</span><o:p></o:p></p>
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">No</span><o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">Deadline email</span><o:p></o:p></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">7/26/2012</span><o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2,156</span><o:=
+p></o:p></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6,384</span><o:p></o:p></p>
+</td>
+<td width=3D"44" nowrap=3D"" style=3D"width:33.25pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgrou=
+nd-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">33.8%</span><o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2,188</span><o:=
+p></o:p></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6,239</span><o:p></o:p></p>
+</td>
+<td width=3D"44" nowrap=3D"" style=3D"width:33.25pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgrou=
+nd-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">35.1%</span><o:p></o:p></p>
+</td>
+<td width=3D"93" nowrap=3D"" style=3D"width:70.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">3.7%</span><o:p></o:p></p>
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">No</span><o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">Dinner with Barack ads</span><o:p></o:p></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">7/26/2012</span><o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1,368</span><o:=
+p></o:p></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15,599</span><o:p></o:p></p>
+</td>
+<td width=3D"44" nowrap=3D"" style=3D"width:33.25pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgrou=
+nd-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">8.8%</span><o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1,365</span><o:p></o:=
+p></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15,676</span><o:p></o:p></p>
+</td>
+<td width=3D"44" nowrap=3D"" style=3D"width:33.25pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgrou=
+nd-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">8.7%</span><o:p></o:p></p>
+</td>
+<td width=3D"93" nowrap=3D"" style=3D"width:70.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">-0.7%</span><o:p></o:p></p>
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">No</span><o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">Birthday card email*</span><o:p></o:p></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">7/28/2012</span><o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10,778</span><o:p></o:p></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;181,611</span><o:p></o:p></p>
+</td>
+<td width=3D"44" nowrap=3D"" style=3D"width:33.25pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgrou=
+nd-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">5.9%</span><o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11,055</span><o:p></o:p></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;181,528</span><o:p></o:p></p>
+</td>
+<td width=3D"44" nowrap=3D"" style=3D"width:33.25pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgrou=
+nd-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">6.1%</span><o:p></o:p></p>
+</td>
+<td width=3D"93" nowrap=3D"" style=3D"width:70.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">2.6%</span></b><o:p></o:p></p>
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:#00B050">Yes</span><o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">Deadline email</span><o:p></o:p></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">7/28/2012</span><o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6,010</span><o:=
+p></o:p></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11,263</span><o:p></o:p></p>
+</td>
+<td width=3D"44" nowrap=3D"" style=3D"width:33.25pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgrou=
+nd-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">53.4%</span><o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6,226</span><o:=
+p></o:p></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11,337</span><o:p></o:p></p>
+</td>
+<td width=3D"44" nowrap=3D"" style=3D"width:33.25pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgrou=
+nd-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">54.9%</span><o:p></o:p></p>
+</td>
+<td width=3D"93" nowrap=3D"" style=3D"width:70.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">2.8%</span></b><o:p></o:p></p>
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:#00B050">Yes</span><o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" style=3D"width:113.0pt;border:solid windowtex=
+t 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">Obama Classic email**</span><o:p></o:p></p>
+</td>
+<td width=3D"68" nowrap=3D"" style=3D"width:51.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">8/7/2012</span><o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2,256</span><o:=
+p></o:p></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5,803</span><o:p></o:p></p>
+</td>
+<td width=3D"44" nowrap=3D"" style=3D"width:33.25pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgrou=
+nd-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">38.9%</span><o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.1pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2,353</span><o:=
+p></o:p></p>
+</td>
+<td width=3D"63" nowrap=3D"" style=3D"width:47.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgroun=
+d-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5,735</span><o:p></o:p></p>
+</td>
+<td width=3D"44" nowrap=3D"" style=3D"width:33.25pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:15.0pt;backgrou=
+nd-position:initial initial;background-repeat:initial initial">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">41.0%</span><o:p></o:p></p>
+</td>
+<td width=3D"93" nowrap=3D"" style=3D"width:70.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">5.2%</span></b><o:p></o:p></p>
+</td>
+<td width=3D"79" nowrap=3D"" style=3D"width:59.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:9.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:#00B050">Yes</span><o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"151" nowrap=3D"" valign=3D"bottom" style=3D"width:113.0pt;padd=
+ing:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"68" nowrap=3D"" valign=3D"bottom" style=3D"width:51.0pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"72" nowrap=3D"" valign=3D"bottom" style=3D"width:54.1pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"63" nowrap=3D"" valign=3D"bottom" style=3D"width:47.5pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"44" nowrap=3D"" valign=3D"bottom" style=3D"width:33.25pt;paddi=
+ng:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"72" nowrap=3D"" valign=3D"bottom" style=3D"width:54.1pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"63" nowrap=3D"" valign=3D"bottom" style=3D"width:47.5pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"44" nowrap=3D"" valign=3D"bottom" style=3D"width:33.25pt;paddi=
+ng:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"93" nowrap=3D"" valign=3D"bottom" style=3D"width:70.0pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+<td width=3D"79" nowrap=3D"" valign=3D"bottom" style=3D"width:59.0pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"750" nowrap=3D"" colspan=3D"10" valign=3D"top" style=3D"width:=
+562.7pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;">* Functionality allowing a visitor to re=
+turn to previous steps added</span><o:p></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;">** Excluded mobile traffic, where the se=
+quential form does not display</span><o:p></o:p></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;">&nbsp;</span><o:p></o:p></p>
+</div>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_DDCDF7A845617241BB803839320F289C91399AC8Melbourneobamal_--
+
+--_004_DDCDF7A845617241BB803839320F289C91399AC8Melbourneobamal_
+Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;
+	name="20120824 sequential form ab test results.xlsx"
+Content-Description: 20120824 sequential form ab test results.xlsx
+Content-Disposition: attachment;
+	filename="20120824 sequential form ab test results.xlsx"; size=15570;
+	creation-date="Fri, 24 Aug 2012 21:35:18 GMT";
+	modification-date="Fri, 24 Aug 2012 21:34:40 GMT"
+Content-Transfer-Encoding: base64
+
+UEsDBBQABgAIAAAAIQCeLGxvbgEAABAFAAATAAgCW0NvbnRlbnRfVHlwZXNdLnhtbCCiBAIooAAC
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACs
+lM9OwzAMxu9IvEOVK2qzcUAIrdthwBEmMR4gJO4aLU2iOBvb2+Nmf4Smsmpil0Zt7O/7xbUzmmwa
+k60hoHa2ZMNiwDKw0iltFyX7nL/mjyzDKKwSxlko2RaQTca3N6P51gNmlG2xZHWM/olzlDU0Agvn
+wdJO5UIjIr2GBfdCLsUC+P1g8MClsxFszGOrwcajZ6jEysTsZUOfdyQBDLJsugtsvUomvDdaikik
+fG3ViUu+dygoM8VgrT3eEQbjnQ7tzt8G+7x3Kk3QCrKZCPFNNITBN4Z/u7D8cm5ZnBfpoHRVpSUo
+J1cNVaBAH0AorAFiY4q0Fo3Q9sB9xj8FI0/L8Mog7fmScA9HpP8NPD3/j5Bkegwxbg3glU+7E+1z
+rkUA9REDTcbVAX5r93BIYeS0pha5chGOuuf8qW9nwXmkCQ5wOcBhRNvs3JMQhKjhOKRdzX50pOm/
+3PBk2qC9XxSoDm+e7rPxDwAAAP//AwBQSwMEFAAGAAgAAAAhALVVMCP1AAAATAIAAAsACAJfcmVs
+cy8ucmVscyCiBAIooAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAACMks9OwzAMxu9IvEPk++puSAihpbtMSLshVB7AJO4ftY2jJED39oQDgkpj
+29H2588/W97u5mlUHxxiL07DuihBsTNie9dqeK2fVg+gYiJnaRTHGo4cYVfd3mxfeKSUm2LX+6iy
+i4saupT8I2I0HU8UC/HscqWRMFHKYWjRkxmoZdyU5T2Gvx5QLTzVwWoIB3sHqj76PPmytzRNb3gv
+5n1il06MQJ4TO8t25UNmC6nP26iaQstJgxXznNMRyfsiYwOeJtpcT/T/tjhxIkuJ0Ejg8zzfinNA
+6+uBLp9oqfi9zjzip4ThTWT4YcHFD1RfAAAA//8DAFBLAwQUAAYACAAAACEAkgeU7AQBAAA/AwAA
+GgAIAXhsL19yZWxzL3dvcmtib29rLnhtbC5yZWxzIKIEASigAAEAAAAAAAAAAAAAAAAAAAAAAAAA
+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
+
+--_004_DDCDF7A845617241BB803839320F289C91399AC8Melbourneobamal_--

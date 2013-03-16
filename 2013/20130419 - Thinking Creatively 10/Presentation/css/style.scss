@@ -3,8 +3,9 @@
 @import "import/core";
 @import "import/mixins";
 @import "import/animation";
-@import "import/ss-social";
 @import "import/ss-standard";
+@import "import/ss-social";
+
 
 $serif: "Sentinel","Times New Roman",Georgia,serif;
 $sans: "Gotham",helvetica,arial,sans-serif;
@@ -58,6 +59,10 @@ body{
     font-weight: 100;
     &.impress-on-thanks{
         background: url('../images/thank-you.png') 50% 50% no-repeat;
+        background-size: 100%;
+    }
+    &.impress-on-clear-eyes{
+        background: #0079c2 url('../images/clear-eyes.jpg') 50% 50% no-repeat;
         background-size: 100%;
     }
 }
@@ -146,7 +151,7 @@ hr{
     &.main{
         height: 50px;
         width: 50px;
-        margin: 100px auto;
+        margin: 140px auto 100px auto;
     }
     &.internal{
         height: 20px;
@@ -197,9 +202,24 @@ hr{
 
 }
 
-#hey{
+#building-obama{
     .first{
         font-size: 80px;
+        margin-bottom: -10px;
+    }
+    .subtitle{
+        font-family: $serif;
+        font-style: italic;
+        font-size: 15px;
+        font-weight: 700;
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin: 100px 0 0 0;
+        span{
+            // font-style: italic;
+            margin: 0 3px;
+        }
     }
 }
 
