@@ -71,6 +71,62 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "2013/20130419 - Thinking Creatively 10/Presentation/index.html",
+			"settings":
+			{
+				"buffer_size": 4173,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "2013/20130419 - Thinking Creatively 10/Presentation/css/style.scss",
+			"settings":
+			{
+				"buffer_size": 6605,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "2013/20130419 - Thinking Creatively 10/Presentation/css/import/animation.scss",
+			"settings":
+			{
+				"buffer_size": 5218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "2013/20130419 - Thinking Creatively 10/Presentation/css/import/mixins.scss",
+			"settings":
+			{
+				"buffer_size": 3479,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "2013/20130419 - Thinking Creatively 10/Presentation/css/impress-demo.css",
+			"settings":
+			{
+				"buffer_size": 21326,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "2013/20130419 - Thinking Creatively 10/Presentation/js/impress.js",
+			"settings":
+			{
+				"buffer_size": 32833,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "2013/20130419 - Thinking Creatively 10/Presentation/js/script.js",
+			"settings":
+			{
+				"buffer_size": 35,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -104,6 +160,9 @@
 	},
 	"file_history":
 	[
+		"/Users/manikrathee/Library/Caches/Cleanup At Startup/Transmit/4BD794DD-54AA-4D42-9ED5-C864F5010D62/index.html",
+		"/Users/manikrathee/Library/Caches/Cleanup At Startup/Transmit/9B20E023-E1CE-4F9D-B49F-FD6FA7C23D0E/index.html",
+		"/Users/manikrathee/Library/Application Support/Sublime Text 2/Packages/Web Inspector/Default (OSX).sublime-keymap",
 		"/Users/manikrathee/Dropbox/#Symlink/Speaking/2013/Thinking Creatively 10/.git/MERGE_MSG",
 		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/js/libs/fitvids.js",
 		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/css/import/tooltip.scss",
@@ -228,10 +287,7 @@
 		"/Users/manikrathee/Dropbox/#Symlink/#Fluence/Alpha/Landing/htdocs-scrapped/index.html",
 		"/Users/manikrathee/Dropbox/#Symlink/#Fluence/Alpha/Landing/htdocs/css/import/animation.less",
 		"/Users/manikrathee/Dropbox/#Symlink/#Fluence/Alpha/Landing/htdocs/readme",
-		"/Users/manikrathee/Dropbox/#Symlink/#Fluence/Alpha/Landing/htdocs/js/libs/ss-social.js",
-		"/Users/manikrathee/Dropbox/#Symlink/Development/child-care-in-plano/index.html",
-		"/Users/manikrathee/Dropbox/#Symlink/Development/child-care-in-plano/css/styles/small-desktop.less",
-		"/Users/manikrathee/Dropbox/#Symlink/Development/child-care-in-plano/css/style.less"
+		"/Users/manikrathee/Dropbox/#Symlink/#Fluence/Alpha/Landing/htdocs/js/libs/ss-social.js"
 	],
 	"find":
 	{
@@ -249,6 +305,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"0.2",
+			",1",
+			"transition",
 			"tag",
 			"purple</li>",
 			"green</li>",
@@ -373,10 +432,7 @@
 			"base",
 			"relative",
 			"#nav",
-			"console",
-			"a.post",
-			";\n",
-			"body"
+			"console"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -384,6 +440,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"0.05",
+			",0.05",
+			",0.2",
 			"<span></span>purple</li>",
 			"<span></span>green</li>",
 			"<span></span>blue</li>",
@@ -434,18 +493,216 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "2013/20130419 - Thinking Creatively 10/Presentation/index.html",
+					"settings":
+					{
+						"buffer_size": 4173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1017,
+								1017
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		},
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 1,
+					"file": "2013/20130419 - Thinking Creatively 10/Presentation/css/style.scss",
+					"settings":
+					{
+						"buffer_size": 6605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2421,
+								2421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1123.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "2013/20130419 - Thinking Creatively 10/Presentation/css/import/animation.scss",
+					"settings":
+					{
+						"buffer_size": 5218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								351,
+								356
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "2013/20130419 - Thinking Creatively 10/Presentation/css/import/mixins.scss",
+					"settings":
+					{
+						"buffer_size": 3479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								698
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		},
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 4,
+					"file": "2013/20130419 - Thinking Creatively 10/Presentation/css/impress-demo.css",
+					"settings":
+					{
+						"buffer_size": 21326,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7785,
+								7785
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7002.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "2013/20130419 - Thinking Creatively 10/Presentation/js/impress.js",
+					"settings":
+					{
+						"buffer_size": 32833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26284,
+								26284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 12714.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "2013/20130419 - Thinking Creatively 10/Presentation/js/script.js",
+					"settings":
+					{
+						"buffer_size": 35,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -496,7 +753,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 128.0
+		"height": 238.0
 	},
 	"replace":
 	{
@@ -508,6 +765,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"mix",
+				"2013/20130419 - Thinking Creatively 10/Presentation/css/import/mixins.scss"
+			],
+			[
+				"anima",
+				"2013/20130419 - Thinking Creatively 10/Presentation/css/import/animation.scss"
+			],
 			[
 				"fitvi",
 				"Build/js/libs/fitvids.js"
@@ -611,10 +876,6 @@
 			[
 				"in",
 				"Build/includes/article-full.php"
-			],
-			[
-				"mix",
-				"Build/css/import/mixins.scss"
 			],
 			[
 				"core",
@@ -737,10 +998,6 @@
 				"css/import/animation.less"
 			],
 			[
-				"anima",
-				"css/import/animation.less"
-			],
-			[
 				"base-",
 				"website/templates/base-loggedin.html"
 			],
@@ -806,7 +1063,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 215.0,
 	"status_bar_visible": true
 }
